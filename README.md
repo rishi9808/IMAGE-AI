@@ -3,7 +3,7 @@
   <br>
   <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopenai.com%2Fblog%2Fdall-e%2F&psig=AOvVaw0BwoNCGV2btwEaXkIDAIGg&ust=1675682365563000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCO17Oh_vwCFQAAAAAdAAAAABAE" alt="OPEN-AI logo" width="200"></a>
   <br>
-  DALL-E Clone
+  AI IMAGE GENERATION APP
   <br>
 </h1>
 
