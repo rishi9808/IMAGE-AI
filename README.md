@@ -39,7 +39,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/rishi9808/AI-Image-Generation-App.git
 
 # Go into the repository
-$ cd dalle-clone
+$ cd AI-Image-Generation-App
 
 **Note** before hosting in localhost you should change the links (containing render.com to localhost) and set the localhost port in the code
 #server side
