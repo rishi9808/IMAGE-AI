@@ -36,7 +36,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rishi9808/dalle-clone.git
+$ git clone https://github.com/rishi9808/AI-Image-Generation-App.git
 
 # Go into the repository
 $ cd dalle-clone
