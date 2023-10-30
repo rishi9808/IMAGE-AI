@@ -67,7 +67,7 @@ $ npm start
 
 ## Deployed Live 
 
-The site is live.Checkout the link [here](https://63df8eee74a6a65a94cf07f9--dashing-dodol-5dead0.netlify.app/)
+The site is live.Checkout the link [here](https://dashing-dodol-5dead0.netlify.app/)
 
 ## Credits
 
